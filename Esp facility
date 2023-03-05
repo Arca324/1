@@ -14,7 +14,7 @@ for i, v in pairs(game:GetService("Workspace").Debris:GetChildren()) do
     BillboardGui.Active = true
     BillboardGui.AlwaysOnTop = true
     BillboardGui.LightInfluence = 1.000
-    BillboardGui.Size = UDim2.new(250, 25, 250, 25)
+    BillboardGui.Size = UDim2.new(200, 10, 200, 10)
     BillboardGui.Name = "ESP"
     
 	TextLabel.Parent = BillboardGui
@@ -61,7 +61,7 @@ for i, v in pairs(game:GetService("Workspace").Debris:GetChildren()) do
     BillboardGui.Active = true
     BillboardGui.AlwaysOnTop = true
     BillboardGui.LightInfluence = 1.000
-    BillboardGui.Size = UDim2.new(250, 25, 250, 25)
+    BillboardGui.Size = UDim2.new(200, 10, 200, 10)
     BillboardGui.Name = "ESP"
     
 	TextLabel.Parent = BillboardGui
@@ -108,7 +108,7 @@ for i, v in pairs(game:GetService("Workspace").Debris:GetChildren()) do
     BillboardGui.Active = true
     BillboardGui.AlwaysOnTop = true
     BillboardGui.LightInfluence = 1.000
-    BillboardGui.Size = UDim2.new(250, 25, 250, 25)
+    BillboardGui.Size = UDim2.new(200, 10, 250, 10)
     BillboardGui.Name = "ESP"
     
 	TextLabel.Parent = BillboardGui
