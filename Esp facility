@@ -14,13 +14,13 @@ for i, v in pairs(game:GetService("Workspace").Debris:GetChildren()) do
     BillboardGui.Active = true
     BillboardGui.AlwaysOnTop = true
     BillboardGui.LightInfluence = 1.000
-    BillboardGui.Size = UDim2.new(45, 0, 45, 0)
+    BillboardGui.Size = UDim2.new(25, 0, 25, 0)
     BillboardGui.Name = "ESP"
     
 	TextLabel.Parent = BillboardGui
     TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     TextLabel.BackgroundTransparency = 1.000
-    TextLabel.Size = UDim2.new(1, 0, 1, 0)
+    TextLabel.Size = UDim2.new(25, 0, 25, 0)
     TextLabel.Font = Enum.Font.SourceSans
     TextLabel.Text = "KeyCard"
     TextLabel.TextColor3 = Color3.fromRGB(0, 159, 58)
@@ -61,13 +61,13 @@ for i, v in pairs(game:GetService("Workspace").Debris:GetChildren()) do
     BillboardGui.Active = true
     BillboardGui.AlwaysOnTop = true
     BillboardGui.LightInfluence = 1.000
-    BillboardGui.Size = UDim2.new(45, 0, 45, 0)
+    BillboardGui.Size = UDim2.new(25, 0, 25, 0)
     BillboardGui.Name = "ESP"
     
 	TextLabel.Parent = BillboardGui
     TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     TextLabel.BackgroundTransparency = 1.000
-    TextLabel.Size = UDim2.new(1, 0, 1, 0)
+    TextLabel.Size = UDim2.new(25, 0, 25, 0)
     TextLabel.Font = Enum.Font.SourceSans
     TextLabel.Text = "Glock17"
     TextLabel.TextColor3 = Color3.fromRGB(0, 159, 58)
@@ -114,7 +114,7 @@ for i, v in pairs(game:GetService("Workspace").Debris:GetChildren()) do
 	TextLabel.Parent = BillboardGui
     TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     TextLabel.BackgroundTransparency = 1.000
-    TextLabel.Size = UDim2.new(1, 0, 1, 0)
+    TextLabel.Size = UDim2.new(25, 0, 25, 0)
     TextLabel.Font = Enum.Font.SourceSans
     TextLabel.Text = "SledgeHammer"
     TextLabel.TextColor3 = Color3.fromRGB(0, 159, 58)
